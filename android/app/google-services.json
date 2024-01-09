@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472542532180",
+    "project_id": "signinpro-7ce36",
+    "storage_bucket": "signinpro-7ce36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472542532180:android:3059ef9c94aef2933c53c1",
+        "android_client_info": {
+          "package_name": "com.example.my_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2mgxug6EEEeQ1kH9yJJDH85C0yj2c-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
